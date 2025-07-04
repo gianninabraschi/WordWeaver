@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'AVG Cloud Help'
+project = 'AVG Cloud'
 copyright = '2025'
 author = 'Kerry Greenwood'
 
